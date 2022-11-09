@@ -28,6 +28,84 @@
     <link href="{% static 'css/jquery.fancybox.css' %}" rel="stylesheet">
     <link href="{% static 'css/odometer-theme-default.css' %}" rel="stylesheet">
     <link href="{% static 'css/style.css' %}" rel="stylesheet">
+    <style>
+        .brfc {
+            padding: 20px 0 !important;
+        }
+
+        .trtr__ul li {
+            font-size: 30px !important;
+        }
+
+        .brfc__p {
+            font-size: 30px !important;
+        }
+
+        .trtr {
+            width: 700px;
+            margin: 0 auto;
+        }
+
+        .brfc__h {
+            font-size: 70px !important;
+            font-weight: bold
+        }
+
+        @media screen and (max-width: 760px) {
+            .brfc {
+                margin-top: 50px !important;
+            }
+
+            .brfc__h {
+                font-size: 50px !important;
+                font-weight: bold
+            }
+
+            .brfc__p {
+                font-size: 20px !important;
+            }
+        }
+
+        @media screen and (max-width: 750px) {
+            .brfc__p {
+                padding-bottom: 40px;
+            }
+        }
+
+        @media screen and (max-width: 780px) {
+            .trtr {
+                width: 570px;
+            }
+        }
+
+        @media screen and (max-width: 660px) {
+            .trtr {
+                width: 480px;
+            }
+        }
+
+        @media screen and (max-width: 510px) {
+            .trtr {
+                width: 400px;
+            }
+
+            .trtr__ul li {
+                font-size: 24px !important;
+            }
+        }
+
+        @media screen and (max-width: 437px) {
+            .trtr {
+                width: 360px;
+            }
+        }
+
+        @media screen and (max-width: 745px) {
+            .brfc {
+                padding: 0 !important;
+            }
+        }
+    </style>
 </head>
 
 <body style="font-family: 'Dancing Script', cursive;">
@@ -65,8 +143,8 @@
                         </div>
                         <div class="col-lg-2 col-md-6 col-6">
                             <div class="navbar-header">
-                                <a class="navbar-brand" href="index.html"><img src="{% static 'images/logo-2.png' %}"
-                                                                               alt=""></a>
+                                <a class="navbar-brand" href="#"><img src="{% static 'images/logo-2.png' %}"
+                                                                      alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-1 col-1">
@@ -75,12 +153,6 @@
                                 <ul class="nav navbar-nav mb-2 mb-lg-0">
                                     <li class="menu-item-has-children">
                                         <a href="#">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="#couple">Couple</a>
-                                    </li>
-                                    <li>
-                                        <a href="#story">Story</a>
                                     </li>
                                     <li>
                                         <a href="#event">Manzil</a>
@@ -141,61 +213,62 @@
     <!-- end of hero slider -->
 
 
-    <!-- start couple-section -->
-    <section class="couple-section pt-160 section-padding" id="couple">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col col-xs-12">
-                    <div class="couple-area clearfix">
-                        <div class="text-grid bride">
-                            <div class="couple-img">
-                                <img src="{% static 'images/couple/2.jpg' %}" alt="">
-                            </div>
-                            <h3>Daniel Oliver</h3>
-                            <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
-                                vel facilisis give you com of system. </p>
-                            <div class="social">
-                                <ul>
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="middle-couple-pic">
-                            <img src="{% static 'images/couple/1.jpg' %}" alt="">
-                            <div class="frame-img"><img src="{% static 'images/couple/shape.png' %}" alt=""></div>
-                        </div>
-                        <div class="text-grid groom">
-                            <div class="couple-img">
-                                <img src="{% static 'images/couple/3.jpg' %}" alt="">
-                            </div>
-                            <h3>Sarah Margrate</h3>
-                            <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus
-                                vel facilisis give you com of system. </p>
-                            <div class="social">
-                                <ul>
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- end container -->
-    </section>
-    <!-- end couple-section -->
+    {#    <!-- start couple-section -->#}
+    {#    <section class="couple-section pt-160 section-padding" id="couple">#}
+    {#        <div class="container">#}
+    {#            <div class="row align-items-center">#}
+    {#                <div class="col col-xs-12">#}
+    {#                    <div class="couple-area clearfix">#}
+    {#                        <div class="text-grid bride">#}
+    {#                            <div class="couple-img">#}
+    {#                                <img src="{% static 'images/couple/2.jpg' %}" alt="">#}
+    {#                            </div>#}
+    {#                            <h3>Daniel Oliver</h3>#}
+    {#                            <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus#}
+    {#                                vel facilisis give you com of system. </p>#}
+    {#                            <div class="social">#}
+    {#                                <ul>#}
+    {#                                    <li><a href="#"><i class="ti-facebook"></i></a></li>#}
+    {#                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>#}
+    {#                                    <li><a href="#"><i class="ti-instagram"></i></a></li>#}
+    {#                                </ul>#}
+    {#                            </div>#}
+    {#                        </div>#}
+    {#                        <div class="middle-couple-pic">#}
+    {#                            <img src="{% static 'images/couple/1.jpg' %}" alt="">#}
+    {##}
+    {#                            <div class="frame-img"><img src="{% static 'images/couple/shape.png' %}" alt=""></div>#}
+    {#                        </div>#}
+    {#                        <div class="text-grid groom">#}
+    {#                            <div class="couple-img">#}
+    {#                                <img src="{% static 'images/couple/3.jpg' %}" alt="">#}
+    {#                            </div>#}
+    {#                            <h3>Sarah Margrate</h3>#}
+    {#                            <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus#}
+    {#                                vel facilisis give you com of system. </p>#}
+    {#                            <div class="social">#}
+    {#                                <ul>#}
+    {#                                    <li><a href="#"><i class="ti-facebook"></i></a></li>#}
+    {#                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>#}
+    {#                                    <li><a href="#"><i class="ti-instagram"></i></a></li>#}
+    {#                                </ul>#}
+    {#                            </div>#}
+    {#                        </div>#}
+    {#                    </div>#}
+    {#                </div>#}
+    {#            </div>#}
+    {#        </div> <!-- end container -->#}
+    {#    </section>#}
+    {#    <!-- end couple-section -->#}
 
 
     <!-- start wpo-cta-section -->
 
-    <div class="wpo-cta-section-s3" style="padding: 20px 0 !important;">
+    <div class="wpo-cta-section-s3 brfc" style="margin-top: 100px">
         <div class="conatiner-fluid">
             <div class="wpo-cta-item">
-                <p style="font-size: 70px !important; font-weight: bold">Taklifnoma</p>
-                <p style="font-size: 30px!important;">
+                <p class="brfc__h">Taklifnoma</p>
+                <p class="brfc__p">
                     Assalomu Alaykum!!!
                     Xurmatli Qadrdonim!
                     <br>
@@ -230,20 +303,20 @@
                     </div>
                 </div>
             </div>
-            <div class="wpo-event-wrap" style="width: 700px; margin: 0 auto">
+            <div class="wpo-event-wrap trtr">
                 <div class="row">
                     <div class="col">
                         <div class="wpo-event-item">
                             <div class="wpo-event-text">
-                                <ul>
-                                    <li style="font-size: 30px!important; margin-bottom: 20px !important;">18 Noyabr,
+                                <ul class="trtr__ul">
+                                    <li style=" margin-bottom: 20px !important;">18 Noyabr,
                                         2022 yil, Juma
                                         soat 18:00
                                     </li>
-                                    <li style="font-size: 30px!important;">Toshkent shahar. Olmazor tumani. "Ofarin"
+                                    <li>Toshkent shahar. Olmazor tumani. "Ofarin"
                                         to'yxonasi
                                     </li>
-                                    <li style="font-size: 30px!important;">Mo'ljal: Shifokorlar shaharchasi</li>
+                                    <li>Mo'ljal: Shifokorlar shaharchasi</li>
 
                                     <li style="font-size: 30px!important;"><a class="popup-gmaps"
                                                                               href="https://www.google.com/maps/place/OFARIN+RESTAURANT/@41.363889,69.1848483,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x38ae8e8128f64143:0xf0c721cc4ca46fae!2sOFARIN+RESTAURANT!8m2!3d41.363889!4d69.187037!3m4!1s0x38ae8e8128f64143:0xf0c721cc4ca46fae!8m2!3d41.363889!4d69.187037?hl=ru-KG">
@@ -271,130 +344,11 @@
         <div class="wpo-video-item">
             <div class="wpo-video-img">
                 <img src="{% static 'images/cta2.jpg' %}" alt="">
-                <a href="https://www.youtube.com/watch?v=G5AxA0pocMg" class="video-btn" data-type="iframe"><i
-                        class="fi flaticon-play"></i></a>
+
             </div>
         </div>
     </section>
     <!-- end wpo-video-section-->
-
-    <!-- start story-section -->
-    <section class="story-section section-padding" id="story">
-        <div class="container">
-            <div class="row">
-                <div class="wpo-section-title-s2">
-                    <div class="section-title-simg">
-                        <img src="{% static 'images/section-title2.png' %}" alt="">
-                    </div>
-                    <h2>Our Love Story</h2>
-                    <div class="section-title-img">
-                        <div class="round-ball"></div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col col-xs-12">
-                    <div class="story-timeline">
-                        <div class="round-shape"></div>
-                        <div class="row">
-                            <div class="col col-lg-6 col-12">
-                                <div class="story-text right-align-text">
-                                    <h3>First time we meet</h3>
-                                    <span class="date">Nov 12,2023</span>
-                                    <p>I must explain to you how all this mistaken idea of denouing pleasure and
-                                        praising pain was born and I will give you com acount of system,the actual
-                                        teach</p>
-                                </div>
-                            </div>
-                            <div class="col col-lg-6 col-12">
-                                <div class="img-holder">
-                                    <img src="{% static 'images/story/1.jpg' %}" alt class="img img-responsive">
-                                    <div class="story-shape-img">
-                                        <img src="{% static 'images/story/shape.png' %}" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col col-lg-6 col-12">
-                                <div class="img-holder right-align-text left-site">
-                                    <img src="{% static 'images/story/2.jpg' %}" alt class="img img-responsive">
-                                    <div class="story-shape-img">
-                                        <img src="{% static 'images/story/shape.png' %}" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col col-lg-6 col-12 text-holder">
-                                    <span class="heart">
-                                        <i class="fi flaticon-heart"></i>
-                                    </span>
-                                <div class="story-text">
-                                    <h3>First Date</h3>
-                                    <span class="date">Dec 25,2023</span>
-                                    <p>I must explain to you how all this mistaken idea of denouing pleasure and
-                                        praising pain was born and I will give you com acount of system,the actual
-                                        teach</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col col-lg-6 col-12 text-holder right-heart">
-                                    <span class="heart">
-                                        <i class="fi flaticon-calendar"></i>
-                                    </span>
-                                <div class="story-text right-align-text">
-                                    <h3>Marriage Proposal</h3>
-                                    <span class="date">Nov 12,2023</span>
-                                    <p>I must explain to you how all this mistaken idea of denouing pleasure and
-                                        praising pain was born and I will give you com acount of system,the actual
-                                        teach</p>
-                                </div>
-                            </div>
-                            <div class="col col-lg-6 col-12">
-                                <div class="img-holder right-align-text">
-                                    <img src="{% static 'images/story/3.jpg' %}" alt class="img img-responsive">
-                                    <div class="story-shape-img">
-                                        <img src="{% static 'images/story/shape.png' %}" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col col-lg-6 col-12">
-                                <div class="img-holder video-holder left-site">
-                                    <img src="{% static 'images/story/4.jpg' %}" alt class="img img-responsive">
-                                    <div class="story-shape-img">
-                                        <img src="{% static 'images/story/shape.png' %}" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col col-lg-6 col-12 text-holder">
-                                    <span class="heart">
-                                        <i class="fi flaticon-dove"></i>
-                                    </span>
-                                <div class="story-text">
-                                    <h3>Our Engagement</h3>
-                                    <span class="date">Dec 25,2023</span>
-                                    <p>I must explain to you how all this mistaken idea of denouing pleasure and
-                                        praising pain was born and I will give you com acount of system,the actual
-                                        teach</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col offset-lg-6 col-lg-6 col-12 text-holder">
-                                    <span class="heart">
-                                        <i class="fi flaticon-wedding-rings"></i>
-                                    </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end row -->
-        </div> <!-- end container -->
-    </section>
-    <!-- end story-section -->
 
     <!-- start wpo-blog-section -->
     <section class="wpo-blog-section-s3 section-padding" id="blog">
@@ -419,10 +373,10 @@
                             </div>
                             <div class="wpo-blog-content">
                                 <ul>
-                                    <li>By <a href="blog-single.html">Loura Sweety</a></li>
+                                    <li>By <a href="#">Loura Sweety</a></li>
                                     <li>25 Sep 2023</li>
                                 </ul>
-                                <h2><a href="blog.html">Best wedding gift you may
+                                <h2><a href="#">Best wedding gift you may
                                     like & choose.</a>
                                 </h2>
                             </div>
@@ -435,10 +389,10 @@
                             </div>
                             <div class="wpo-blog-content">
                                 <ul>
-                                    <li>By <a href="blog-single.html">David Luis</a></li>
+                                    <li>By <a href="#">David Luis</a></li>
                                     <li>23 Sep 2023</li>
                                 </ul>
-                                <h2><a href="blog.html">Photography is the important part of wedding.</a>
+                                <h2><a href="#">Photography is the important part of wedding.</a>
                                 </h2>
                             </div>
                         </div>
@@ -450,10 +404,10 @@
                             </div>
                             <div class="wpo-blog-content">
                                 <ul>
-                                    <li>By <a href="blog-single.html">Aliana de</a></li>
+                                    <li>By <a href="#">Aliana de</a></li>
                                     <li>21 Sep 2023</li>
                                 </ul>
-                                <h2><a href="blog.html">Top 10 wedding fresh flower decoration idea.</a>
+                                <h2><a href="#">Top 10 wedding fresh flower decoration idea.</a>
                                 </h2>
                             </div>
                         </div>
@@ -464,100 +418,6 @@
         </div> <!-- end container -->
     </section>
     <!-- end wpo-blog-section -->
-
-    <!-- start of wpo-site-footer-section -->
-    <footer class="wpo-site-footer">
-        <div class="wpo-upper-footer">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="widget about-widget">
-                            <div class="logo widget-title">
-                                <img src="{% static 'images/logo.png' %}" alt="blog">
-                            </div>
-                            <p>Welcome and open yourself to your truest love this year with us! With the Release
-                                Process</p>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-twitter-alt"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-google"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="widget link-widget">
-                            <div class="widget-title">
-                                <h3>Information</h3>
-                            </div>
-                            <ul>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="portfolio.html">Portfolio</a></li>
-                                <li><a href="blog.html">Latest News</a></li>
-                                <li><a href="contact.html">Contact us</a></li>
-                                <li><a href="service.html">Our Services</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="widget wpo-service-link-widget">
-                            <div class="widget-title">
-                                <h3>Contact </h3>
-                            </div>
-                            <div class="contact-ft">
-                                <p>Would you have any enquiries.Please feel free to contuct us</p>
-                                <ul>
-                                    <li><i class="fi flaticon-email"></i>loveme@gmail.com</li>
-                                    <li><i class="fi flaticon-phone-call"></i>+888 (123) 869523</li>
-                                    <li><i class="fi flaticon-maps-and-flags"></i>New York – 1075 Firs Avenue
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col col-xl-3  col-lg-4 col-md-6 col-sm-12 col-12">
-                        <div class="widget instagram">
-                            <div class="widget-title">
-                                <h3>Instagram</h3>
-                            </div>
-                            <ul class="d-flex">
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/1.jpg' %}"
-                                                                         alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/2.jpg' %}"
-                                                                         alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/3.jpg' %}"
-                                                                         alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/4.jpg' %}"
-                                                                         alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/5.jpg' %}"
-                                                                         alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="{% static 'images/instragram/6.jpg' %}"
-                                                                         alt=""></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end container -->
-        </div>
-    </footer>
-    <!-- end of wpo-site-footer-section -->
 
     <!-- All JavaScript files
     ================================================== -->
