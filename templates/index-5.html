@@ -29,8 +29,16 @@
     <link href="{% static 'css/odometer-theme-default.css' %}" rel="stylesheet">
     <link href="{% static 'css/style.css' %}" rel="stylesheet">
     <style>
+        #clock .box span{
+            font-size: 25px !important;
+        }
+        .brfc__span {
+            font-weight: bold;
+            margin: 0;
+            margin-top: 15px;
+        }
         .brfc {
-            padding: 20px 0 !important;
+            padding: 0 !important;
         }
 
         .trtr__ul li {
@@ -39,6 +47,7 @@
 
         .brfc__p {
             font-size: 30px !important;
+            margin: 0 !important;
         }
 
         .trtr {
@@ -48,7 +57,9 @@
 
         .brfc__h {
             font-size: 70px !important;
-            font-weight: bold
+            font-weight: bold;
+            margin: 0 !important;
+            line-height: 105px;
         }
 
         @media screen and (max-width: 760px) {
@@ -68,7 +79,22 @@
 
         @media screen and (max-width: 750px) {
             .brfc__p {
-                padding-bottom: 40px;
+                padding-bottom: 10px;
+            }
+        }
+        @media screen and (max-width: 1400px) {
+            .title__rt {
+                font-size: 75px !important;
+            }
+        }
+        @media screen and (max-width: 1040px) {
+            .title__rt {
+                font-size: 50px !important;
+            }
+        }
+        @media screen and (max-width: 560px) {
+            .title__rt {
+                font-size: 35px !important;
             }
         }
 
@@ -171,8 +197,12 @@
     <section class="wpo-hero-slider wpo-hero-style-3">
         <div class="wedding-announcement">
             <div class="couple-text">
-                <h2 class="wow slideInUp" data-wow-duration="1s" style="font-style: italic">Visol oqshomi</h2>
-                <p class="wow slideInUp" data-wow-duration="1.8s" style="font-style: italic">18 Noyabr 2022</p>
+                <h2 class="wow slideInUp title__rt" data-wow-duration="1s" style="font-family: 'Dancing Script', cursive;">
+                    Ruslanjon va Farangizxon
+                    <br>
+                    Visol oqshomi
+                </h2>
+                <p class="wow slideInUp" data-wow-duration="1.8s" style="font-family: 'Dancing Script', cursive;">18 Noyabr 2022</p>
                 <!-- start wpo-wedding-date -->
                 <div class="wpo-wedding-date wow slideInUp" data-wow-duration="2.1s">
                     <div class="clock-grids">
@@ -281,7 +311,8 @@
                     Toshkent shahri, Olmazor tumani, "Ofarin" to'yxonasida
                     yoziladigan
                     <br>
-                    bazm dasturxonimizga taklif etamiz
+                    bazm dasturxonimizga taklif etamiz <br>
+                    <span class="brfc__span">Xurmat va ehtirom ila Jaylov ota o'gli <br> Faxriddin Nosirovlar oilasi</span>
                 </p>
             </div>
         </div>
