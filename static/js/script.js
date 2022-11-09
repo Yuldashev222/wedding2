@@ -443,7 +443,7 @@ function _0x2f59(_0xebe2cf, _0x5bc14d) {
             'settings': {'slidesToShow': 0x5}
         }]
     }));
-    _0x424e87(_0x164425(0x1e5))['length'] && _0x424e87(_0x164425(0x1e5))['countdown']('2022/04/14', function (_0x57a66c) {
+    _0x424e87(_0x164425(0x1e5))['length'] && _0x424e87(_0x164425(0x1e5))['countdown']('2022/11/18', function (_0x57a66c) {
         var _0x3ce881 = _0x164425,
             _0x4d56df = _0x424e87(this)[_0x3ce881(0x21f)](_0x57a66c['strftime']('' + '<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%m</div>\x20<span>Month</span>\x20</div></div>' + _0x3ce881(0x1ec) + _0x3ce881(0x25a) + '<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%M</div>\x20<span>Mins</span>\x20</div></div>' + _0x3ce881(0x1ff)));
     });
