@@ -1,0 +1,1128 @@
+Uri: https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,800&display=swap
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\s\muli\v28\7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://wpocean.com/html/tf/loveme/404.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\404.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/about.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\about.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/accomodation.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\accomodation.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/animate.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/auth-pages.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\auth-pages.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/bootstrap.min.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/flaticon.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/font-awesome.min.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/jquery-ui.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/jquery.fancybox.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/magnific-popup.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/nice-select.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/odometer-theme-default.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/owl.carousel.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/owl.theme.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/owl.transitions.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\owl.transitions.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/slick-theme.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/slick.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/style.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\style.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/swiper.min.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/css/themify-icons.css
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/flaticon.eot?7be827e199392bb56ae95dacf43f5036
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/flaticon.svg?7be827e199392bb56ae95dacf43f5036
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/flaticon.ttf?7be827e199392bb56ae95dacf43f5036
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/flaticon.woff2?7be827e199392bb56ae95dacf43f5036
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/flaticon.woff?7be827e199392bb56ae95dacf43f5036
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\flaticon.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Demi.woff
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Demi.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Demi.woff2
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Demi.woff2
+Content Type: font/woff2
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Heavy.woff
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Heavy.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Heavy.woff2
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Heavy.woff2
+Content Type: font/woff2
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Medium.woff
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Medium.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/FuturaPT-Medium.woff2
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\FuturaPT-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/slick.eot
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/slick.eot?
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/slick.svg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/slick.ttf
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/slick.woff
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/themify.eot?
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/themify.eot?-fvbane
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/themify.svg?-fvbane
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/themify.ttf?-fvbane
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpocean.com/html/tf/loveme/assets/fonts/themify.woff?-fvbane
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/about/1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\about\1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/about/2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\about\2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/about/shape.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\about\shape.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/about/thumb.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\about\thumb.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/ajax-loader.gif
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/at-single.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\at-single.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/banner.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/best-seller/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\best-seller\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/best-seller/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\best-seller\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/best-seller/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\best-seller\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/author.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\author.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/comments-author/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\comments-author\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/comments-author/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\comments-author\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog-details/comments-author/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog-details\comments-author\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/ab.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\ab.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/about-widget.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\about-widget.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/blog/img-6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\blog\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/breadcrumb.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cart/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cart\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cart/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cart\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cart/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cart\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cart/img-4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cart\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cart/img-5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cart\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/category/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\category\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/category/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\category\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/category/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\category\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/checkout/img-1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\checkout\img-1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/checkout/img-2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\checkout\img-2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/checkout/img-3.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\checkout\img-3.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/checkout/img-4.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\checkout\img-4.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/clock-bg.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\clock-bg.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/clock-bg2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\clock-bg2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/contact/1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\contact\1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/contact/2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\contact\2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/couple/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\couple\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/couple/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\couple\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/couple/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\couple\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/couple/shape.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\couple\shape.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta/1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta\1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta/bg-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta/bg-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta/bg.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/cta2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\cta2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/error-404.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\error-404.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/event-shape-1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\event-shape-1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/event-shape-2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\event-shape-2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/f-shape-1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\f-shape-1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/f-shape-2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\f-shape-2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/blank.gif
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/fancybox_loading.gif
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/fancybox_loading@2x.gif
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/fancybox_overlay.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/fancybox_sprite.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/fancybox/fancybox_sprite@2x.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/favicon.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/instragram/6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\instragram\6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/login.svg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\login.svg
+Content Type: image/svg+xml
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/logo-2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/logo.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/offer.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\offer.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/page-title.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\page-title.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/partners/1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\partners\1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/partners/2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\partners\2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/partners/3.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\partners\3.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/partners/4.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\partners\4.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/partners/5.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\partners\5.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio-single/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio-single\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio-single/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio-single\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio-single/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio-single\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio-single/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio-single\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/10.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/11.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/12.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/13.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\13.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/14.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\14.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/15.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\15.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/16.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\16.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/17.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\17.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/7.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\7.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/8.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\8.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/portfolio/9.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\portfolio\9.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/pricing/1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\pricing\1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/pricing/2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\pricing\2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/pricing/3.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\pricing\3.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/10.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\10.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/11.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\11.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/12.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\12.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/13.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\13.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/14.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\14.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/15.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\15.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/16.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\16.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/17.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\17.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/7.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/8.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\8.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/product/9.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\product\9.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/recent-posts/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\recent-posts\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/recent-posts/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\recent-posts\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/recent-posts/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\recent-posts\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/section-title.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\section-title.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/section-title2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\section-title2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/select-icon.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\select-icon.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/select-icon2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\select-icon2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service-single/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service-single\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service-single/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service-single\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service-single/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service-single\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/service/img-6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\service\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/mini-cart/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\mini-cart\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/mini-cart/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\mini-cart\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/review/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\review\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/review/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\review\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/thumb/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\thumb\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/thumb/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\thumb\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/thumb/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\thumb\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/shop/shop-single/thumb/img-4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\shop\shop-single\thumb\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/couple.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\couple.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/flower1.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\flower1.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/flower2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\flower2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/frame.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\frame.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/s6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\s6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape3.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape3.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape4.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape4.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape5.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape5.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/shape6.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\shape6.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/slider/slide-10.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\slider\slide-10.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/story/1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\story\1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/story/2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\story\2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/story/3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\story\3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/story/4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\story\4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/story/shape.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\story\shape.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-4.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-5.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-6.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-7.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/team/img-8.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\team\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/img-1.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/img-2.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/img-3.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/l-img.jpg
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\l-img.jpg
+Content Type: image/jpeg
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/shape.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\shape.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/testimonial/shape2.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\testimonial\shape2.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/jquery-plugin-collection.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\jquery-plugin-collection.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/jquery.dlmenu.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\jquery.dlmenu.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/jquery.min.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/modernizr.custom.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/assets/js/script.js
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://wpocean.com/html/tf/loveme/blog-fullwidth.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog-fullwidth.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/blog-left-sidebar.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/blog-single-fullwidth.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog-single-fullwidth.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/blog-single-left-sidebar.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog-single-left-sidebar.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/blog-single.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog-single.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/blog.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\blog.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/cart.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\cart.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/checkout.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\checkout.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/coming.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\coming.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/contact.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\contact.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/forgot.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\forgot.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/gallery.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\gallery.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/groom-bride.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\groom-bride.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-2.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-2.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-3.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-3.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-4.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-4.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-5.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-5.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-6.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-6.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index-7.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index-7.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/index.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\index.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/login.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\login.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/planner.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\planner.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/portfolio-grid.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\portfolio-grid.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/portfolio-mashonary-s2.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\portfolio-mashonary-s2.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/portfolio-mashonary.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\portfolio-mashonary.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/portfolio-single.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\portfolio-single.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/pricing.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\pricing.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/register.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\register.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/rsvp.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\rsvp.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/service-s2.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\service-s2.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/service-single.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\service-single.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/service.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\service.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/shop-single.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\shop-single.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/shop.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\shop.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/story.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\story.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/team-single.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\team-single.html
+Content Type: text/html
+
+Uri: https://wpocean.com/html/tf/loveme/wishlist.html
+File Name: C:\Users\Isobek\Desktop\oybek123\wpocean.com\html\tf\loveme\wishlist.html
+Content Type: text/html
+
